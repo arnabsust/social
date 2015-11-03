@@ -1,0 +1,22 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "social application that every people need to their daily life",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "blogging",
+    "food-reviews",
+    "image-sharing"
+  ],
+  "author": "Hasib Hasan Arnab <arnab.sust@hotmail.com> (http://hasibarnab.wordpress.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.3"
+  }
+}
